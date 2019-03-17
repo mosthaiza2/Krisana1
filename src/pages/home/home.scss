@@ -2,9 +2,10 @@ page-home {
     ion-card-header{
         font-weight: bold;
         text-align: center;
-        background-color: cornsilk;
+        background-color:#ffff80;
     }
     .card-background-page{
+        background-color:  #ffff80;
         ion-card{
             position: relative;
             text-align: center;
@@ -22,7 +23,7 @@ page-home {
             position: absolute;
             top: 52%;
             width: 100%;
-            color: #FFF;
+            color: #80ffff;
         }
     }
 
