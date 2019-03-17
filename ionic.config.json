@@ -1,6 +1,8 @@
 {
   "name": "Krisana1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "f1a727fd"
 }
